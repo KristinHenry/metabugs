@@ -4,7 +4,7 @@ unity and meta collaborative project
 
 Team Members:
 
-Kaori Furusawa, Kannan Haridas, Mark Hellar, Kristin Henry 
+Kaori Furusawa, Mark Hellar, Kristin Henry 
 
 
 
